@@ -1,4 +1,4 @@
-#' Calculate the bidimentional map for genetic information
+#' Calculate the two-dimensional map for genetic information
 #'
 #'
 #' @export
